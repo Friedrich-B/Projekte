@@ -1,6 +1,6 @@
 # diverse-Projekte
 
-Hierbei handelt es sich um eine Auswahl verschiedener kleiner Projekte, welch ich umgesetzt habe.
+Hierbei handelt es sich um eine Auswahl verschiedener kleiner Projekte, welche ich umgesetzt habe.
 
 ## 39. BWINF 2. Runde
 Hier befinden sich die Aufgabenstellung und meine Abgabe ( __Code__ und __Dokumentation__ ) zur 2. Runde des __Bundeswettbewerb Informatik__.
@@ -11,7 +11,7 @@ Funktionieren und wie man diese Programmiert. Vor den Weihnachtsferien 2021/2022
 Projekt umzusetzen. Den C++ Code habe ich geschrieben, mein Partner den Processing Code.
 
 ## Sortieralgorithmen
-Privat und inn der Schule habe ich mich mit Sortieralgorithmen beschäftigt. Hier finden sich einige von mir umgesetzte Algorithmen.
+Privat und in der Schule habe ich mich mit Sortieralgorithmen beschäftigt. Hier finden sich einige von mir umgesetzte Algorithmen.
 
 ## Taschenrechner
-Dieses Projekt habe ich während des ersten Lockdowns im Jahr 2020 umgesetzt. 
+Diesen Taschenrechner habe ich während des ersten Lockdowns im Jahr 2020 umgesetzt. Es handelt sich um eine Webanwendung, welche ich mit html, css und JavaScript erstellt habe.
