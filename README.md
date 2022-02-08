@@ -3,7 +3,7 @@
 Hierbei handelt es sich um eine Auswahl verschiedener kleiner Projekte, welche ich umgesetzt habe.
 
 ## 39. BWINF 2. Runde
-Hier befinden sich die Aufgabenstellung und meine Abgabe ( __Code__ und __Dokumentation__ ) zur 2. Runde des __Bundeswettbewerb Informatik__.
+Hier befinden sich die Aufgabenstellung und meine Abgabe ( Code und Dokumentation ) zur 2. Runde des Bundeswettbewerb Informatik.
 
 ## Hau den Maulwurf
 Hierbei handelt es sich um ein Spiel, welches ich mit einem Partner in der Schule umgesetzt habe. Im Rahmen des Leistungskurses Elektrotechnik lernen wir, wie Mikrocontroller
