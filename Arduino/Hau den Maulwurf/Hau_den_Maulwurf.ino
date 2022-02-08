@@ -1,4 +1,3 @@
-// Robin, Friedrich
 #include <Keypad.h>
 
 
